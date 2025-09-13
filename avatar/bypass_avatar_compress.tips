@@ -1,0 +1,7 @@
+Tips for avoiding GitHub's excessive avatar compression:
+
+1. Avoid using images larger than 500x500 pixels;
+2. Use PNG format images;
+3. If possible, indicate in the metadata that the image has been compressed;
+
+-eof-
